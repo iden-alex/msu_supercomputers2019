@@ -6,6 +6,6 @@
 * [Report](https://github.com/iden-alex/msu_supercomputers_2019/blob/master/Report_OpenMP.pdf)
 
 ### MPI:
-* [Parallele with MPI](https://github.com/iden-alex/msu_supercomputers_2019/blob/master/Parallel_MPI_Sor_3D.c)
+* [Parallel with MPI](https://github.com/iden-alex/msu_supercomputers_2019/blob/master/Parallel_MPI_Sor_3D.c)
 * [Report](https://github.com/iden-alex/msu_supercomputers_2019/blob/master/Report_OpenMP.pdf)
 
